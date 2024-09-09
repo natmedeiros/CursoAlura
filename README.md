@@ -1,4 +1,4 @@
-## Desevendando Atletas!
+## Desevendando Atletas - Imersão Dev com Google gemini
 
 **O que é esse projeto?**
 
